@@ -1,9 +1,4 @@
 # Optimal Control
-Two simple implementations of optimal control theory 
+Two simple implementations to find the optimal control of a certain problem
 
 Following the part 2 of MA5232 course, National University of Singapore
-
-
-One being the Ricatti Differential equation (RDE):
-    
-
